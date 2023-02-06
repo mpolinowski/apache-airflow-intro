@@ -1,5 +1,5 @@
 docker-compose/test 
 docker-compose/plugins 
 docker-compose/logs 
-docker-compose/dags 
+docker-compose/dags/__pycache__
 docker-compose/.env

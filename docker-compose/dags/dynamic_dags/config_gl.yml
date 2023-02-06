@@ -1,0 +1,4 @@
+dag_id: 'GL'
+schedule: '@daily'
+catchup: False
+input: 4567
